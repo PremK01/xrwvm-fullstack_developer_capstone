@@ -124,3 +124,18 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+.contact-info h3 {
+    color: #333;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.contact-info p {
+    font-size: 1.1em;
+    color: #555;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
